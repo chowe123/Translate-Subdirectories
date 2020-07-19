@@ -43,5 +43,5 @@ def TranslateNames(d):
         
 
 # Example:
-# filepath = ''   
+# filepath = 'D:\New folder'
 # x = TranslateNames(filepath)
